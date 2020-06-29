@@ -1,0 +1,27 @@
+.filter-section {
+    ul {
+        border: 1px solid grey;
+        li {
+            list-style: none;
+            padding: 10px 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        h3 {
+            background: burlywood;
+            padding: 16px 20px;
+            margin-bottom: 0px;
+            text-transform: capitalize;
+        }
+    }
+}
+
+// ul h3 {
+//     background: burlywood;
+//     padding: 16px 20px;
+//     margin-bottom: 0px;
+//     margin-top: 30px;
+//     text-transform: capitalize;
+//   }
+//   .filter-section input {
+//     margin-right: 5px;
+//   }
